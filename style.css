@@ -1,0 +1,62 @@
+.logo{
+    display: flex;
+    justify-content: center;
+
+}
+.ShortFrame{
+    width: 28vw;
+    height: 7vh;
+    background-color: #EFEEEE;
+    border-radius: 3px;
+    border: 1px solid #EFEEEE;
+
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    
+}
+.login form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.id{
+    margin-top: 50px;
+    width: 28vw;
+    height: 8vh;
+    border-radius: 10px;
+    background-color: #E37272;
+    font-size: 26px;
+    font-weight: bold;
+    
+}
+.id{
+    
+    cursor:pointer;
+}
+form{
+    display:flex;
+    justify-content: center;
+    
+}
+span{
+    display:flex;
+    margin-top: 47px;
+    
+}
+.title{
+    margin-top: 4%;
+    width: 30vw;
+    height: 20vh;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
