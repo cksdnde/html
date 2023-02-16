@@ -1,3 +1,12 @@
+.topic-logo{
+    display: flex;
+    justify-content: center;
+    padding-right: 8px;
+}
+#topic{
+    position: relative;
+    top: 3.2rem;
+}
 .logo{
     display: flex;
     justify-content: center;
@@ -47,7 +56,6 @@ form{
 span{
     display:flex;
     margin-top: 47px;
-    font-weight: 300%;
     
 }
 .title{
